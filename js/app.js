@@ -1,1 +1,3 @@
-console.log('ok');
+const mess = function(){
+    return "Hello, World"
+}
